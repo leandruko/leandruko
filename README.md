@@ -1,8 +1,12 @@
 <br clear="both">
 
-<img align="right" height="299" src="https://i.pinimg.com/originals/14/1f/e4/141fe4a545e28618d10adbf644a57cce.gif"  />
+<div align="center">
+  <img height="299" src="https://i.pinimg.com/originals/14/1f/e4/141fe4a545e28618d10adbf644a57cce.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <h1 align="left">hey there 👋</h1>
 
