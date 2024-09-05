@@ -1,24 +1,10 @@
-<div align="center">
-  <img height="150" src="[https://i.pinimg.com/originals/23/a9/e1/23a9e16f37d05dcd1d3be915065854b3.gif](https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif)"  />
-</div>
+<br clear="both">
+
+<img align="right" height="299" src="https://i.pinimg.com/originals/14/1f/e4/141fe4a545e28618d10adbf644a57cce.gif"  />
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/leandro-soto-miranda-767a72264/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=leandruko.leandruko&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="left">hey there 👋</h1>
 
 ###
 
@@ -60,12 +46,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=leandruko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=leandruko.leandruko&"  />
 </div>
 
 ###
